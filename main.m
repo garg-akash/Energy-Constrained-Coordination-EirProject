@@ -56,3 +56,4 @@ pzoom = linspace(0,2,30);
 tzoom = linspace(3440,3500,60);
 
 plotResults;
+TminAnalysis; %to analyse how distance covered affect min time required
