@@ -11,3 +11,6 @@
 
 * Graph depicting minimum time to cover the distance increases with increasing distance traveled, as is to be expected. This is intuitive because in order to travel a further distance using the same amount of energy, the robot must travel slower, therefore taking longer. Also, a robot with a higher initial battery level can travel a specified distance in less time than a robot with a lower initial battery level; 
 ![](img/fig3.png)
+
+* Graph depicting 2D meeting position of three robots after optimization (also meeting point is different than the average position of the three robots); 
+![](img/fig4.png)
